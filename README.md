@@ -103,7 +103,9 @@ catch(ClassNotFoundException ca)
    {
    System.out.println(ca);
    }
+   
    SIMILAR IMAGE IDENTIFICATION
+   
    Identification of similar images from a photo timeline to enable storage savings.
 This solution could be used in a mobile or desktop app giving the user the ability to choose the photos to retain
 among a set of similar looking image 
@@ -120,6 +122,7 @@ so its my general impression to get about AI from the image search
 
 
 Implications of AI
+
 real-life examples on using AI to help homeless youth, diabetes patients, and other social welfare interventions. so it was one of the vital implication of AI  , so we use social service technological innovation using artificial intelligence 
 Title Artificial Intelligence and Social Work
 Authors: Milind Tambe and Eric Rice
